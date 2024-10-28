@@ -15,7 +15,7 @@
 - 🔭 **I’m interested in:** Building full-stack applications, exploring the latest tech trends, and contributing to open-source projects.
 - 🌱 **I’m currently learning:** Tailwind CSS, Flask, and interactive front-end development with React!
 - 💞️ **I’m looking to collaborate on:** Open-source projects, web development, and innovative tech solutions.
-- 📫 **How to reach me:** Feel free to reach out via [LinkedIn](https://www.linkedin.com/) or send me an email at `myemail@example.com`.
+- 📫 **How to reach me:** Feel free to reach out via [LinkedIn](https://www.linkedin.com/) or send me an email at `nomenatsimijaly@gmail.com`.
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I can build more than just code—I can crochet too! 🧶
 
@@ -45,7 +45,7 @@
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:myemail@example.com">
+  <a href="mailto:nomenatsimijaly@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
